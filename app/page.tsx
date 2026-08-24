@@ -90,14 +90,15 @@ export default function HomePage() {
             </p>
 
             <h1>
-              No one in the family of God should feel forgotten.
-            </h1>
-
-            <p className="home-hero-lead">
-              Helping local churches faithfully care for the homebound,
-              hospitalized, widows, caregivers, grieving families, and everyone
-              who needs encouragement.
-            </p>
+  Honoring our senior saints.
+  <br />
+  Caring for them faithfully.
+</h1>
+           <p className="hero-copy">
+  Helping local churches faithfully care for senior adults,
+  the homebound, widows and widowers, the grieving, and others
+  who need encouragement, prayer, and meaningful connection.
+</p>
 
             <div className="button-row">
               <a className="button gold-button" href="#partner">
