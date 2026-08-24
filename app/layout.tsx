@@ -27,14 +27,20 @@ export default function RootLayout({
             </a>
 
             <nav className="main-nav">
-              <a href="#about">About</a>
-              <a href="#churches">For Churches</a>
-              <a href="#vision">Our Vision</a>
-              <a href="#volunteer">Volunteer</a>
-              <a className="nav-button" href="#support">
-                Support the Mission
-              </a>
-            </nav>
+  <a href="/#about">About</a>
+  <a href="/#churches">For Churches</a>
+  <a href="/#vision">Our Vision</a>
+
+  <a href="/prayer">
+    Prayer Request
+  </a>
+
+  <a href="/#volunteer">Volunteer</a>
+
+  <a className="nav-button" href="/#support">
+    Support the Mission
+  </a>
+</nav>
           </div>
         </header>
 
